@@ -1,0 +1,54 @@
+/*================= STYLE HEADER ===================*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: blue;
+  width: 100%;
+  margin-top: 0;
+}
+
+nav {
+  width: 100%;
+  text-align: center;
+}
+
+nav ul {
+  margin: 0 auto;
+  padding-left: 0;
+  display: inline-block;
+}
+
+header h4 {
+  display: inline-block;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  background: orange;
+}
+
+#maininfonav {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+header h2 {
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.selected {
+  color: black;
+}
